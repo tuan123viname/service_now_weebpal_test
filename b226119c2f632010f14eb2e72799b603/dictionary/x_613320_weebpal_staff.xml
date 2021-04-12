@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Staff" max_length="40" name="x_613320_weebpal_staff" type="collection">
+        <element label="Age" max_length="3" name="age" type="integer"/>
+        <element choice="2" label="Birthday" max_length="30" name="birthday" type="glide_date">
+            <choice/>
+        </element>
+        <element display="true" label="First name" max_length="20" name="first_name" type="string_full_utf8"/>
+        <element choice="3" label="Gender" mandatory="true" max_length="3" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Nam" value="male"/>
+                <element inactive_on_update="false" label="Nữ" value="female"/>
+            </choice>
+        </element>
+        <element choice="2" label="Last name" max_length="20" name="last_name" type="string">
+            <choice/>
+        </element>
+        <element choice="3" default="developer" label="Position" mandatory="true" max_length="20" name="position" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Designer" value="designer"/>
+                <element inactive_on_update="false" label="Developer" value="developer"/>
+                <element inactive_on_update="false" label="Project manager" value="project_manager"/>
+                <element inactive_on_update="false" label="Qc lead" value="qc_lead"/>
+                <element inactive_on_update="false" label="Technical lead" value="technical_lead"/>
+                <element inactive_on_update="false" label="Tester" value="tester"/>
+            </choice>
+        </element>
+    </element>
+</database>

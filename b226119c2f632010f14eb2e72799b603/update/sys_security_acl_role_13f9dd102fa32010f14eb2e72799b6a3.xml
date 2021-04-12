@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-12 04:12:09</sys_created_on>
+        <sys_id>13f9dd102fa32010f14eb2e72799b6a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_613320_weebpal_staff.x_613320_weebpal.staff_user</sys_name>
+        <sys_package display_value="Weebpal" source="x_613320_weebpal">b226119c2f632010f14eb2e72799b603</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Weebpal">b226119c2f632010f14eb2e72799b603</sys_scope>
+        <sys_security_acl display_value="x_613320_weebpal_staff">53f9dd102fa32010f14eb2e72799b6a0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_13f9dd102fa32010f14eb2e72799b6a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-12 04:12:09</sys_updated_on>
+        <sys_user_role display_value="x_613320_weebpal.staff_user" name="x_613320_weebpal.staff_user">32f995102fa32010f14eb2e72799b6e5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="position" table="x_613320_weebpal_staff" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>position</element>
+            <name>x_613320_weebpal_staff</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 04:22:56</sys_created_on>
+            <sys_id>817cd9902fa32010f14eb2e72799b601</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>position</sys_name>
+            <sys_package display_value="Weebpal" source="x_613320_weebpal">b226119c2f632010f14eb2e72799b603</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Weebpal">b226119c2f632010f14eb2e72799b603</sys_scope>
+            <sys_update_name>sys_choice_x_613320_weebpal_staff_position</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 04:22:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Designer</label>
+            <language>en</language>
+            <name>x_613320_weebpal_staff</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 04:23:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>298c11d02fa32010f14eb2e72799b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 04:23:34</sys_updated_on>
+            <value>designer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Developer</label>
+            <language>en</language>
+            <name>x_613320_weebpal_staff</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 04:22:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>465c11d02fa32010f14eb2e72799b664</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 04:22:56</sys_updated_on>
+            <value>developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project manager</label>
+            <language>en</language>
+            <name>x_613320_weebpal_staff</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 04:23:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e79c11d02fa32010f14eb2e72799b61c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 04:23:52</sys_updated_on>
+            <value>project_manager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Qc lead</label>
+            <language>en</language>
+            <name>x_613320_weebpal_staff</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 04:24:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88cc91d02fa32010f14eb2e72799b687</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 04:24:26</sys_updated_on>
+            <value>qc_lead</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technical lead</label>
+            <language>en</language>
+            <name>x_613320_weebpal_staff</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 04:24:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57ac5d502fa32010f14eb2e72799b60c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 04:24:09</sys_updated_on>
+            <value>technical_lead</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tester</label>
+            <language>en</language>
+            <name>x_613320_weebpal_staff</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 04:23:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a57c11d02fa32010f14eb2e72799b667</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 04:23:13</sys_updated_on>
+            <value>tester</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

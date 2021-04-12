@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Staff" language="en" table="x_613320_weebpal_staff">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Staff</label>
+            <language>en</language>
+            <name>x_613320_weebpal_staff</name>
+            <plural>Staffs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 04:12:10</sys_created_on>
+            <sys_id>abf9dd102fa32010f14eb2e72799b6c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Staff</sys_name>
+            <sys_package display_value="Weebpal" source="x_613320_weebpal">b226119c2f632010f14eb2e72799b603</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Weebpal">b226119c2f632010f14eb2e72799b603</sys_scope>
+            <sys_update_name>sys_documentation_x_613320_weebpal_staff__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 04:12:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

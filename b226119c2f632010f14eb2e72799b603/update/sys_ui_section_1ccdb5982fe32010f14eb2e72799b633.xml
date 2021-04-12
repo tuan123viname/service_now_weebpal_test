@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Project" section_id="1ccdb5982fe32010f14eb2e72799b633" sys_domain="global" table="x_613320_weebpal_project" version="3" view="One_column">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>c69ff9d82fe32010f14eb2e72799b6e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>4e9ff9d82fe32010f14eb2e72799b6e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>budget</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>c29ff9d82fe32010f14eb2e72799b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>4a9ff9d82fe32010f14eb2e72799b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>url</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>ce9ff9d82fe32010f14eb2e72799b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>469ff9d82fe32010f14eb2e72799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>ca9ff9d82fe32010f14eb2e72799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>429ff9d82fe32010f14eb2e72799b6e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>c69ff9d82fe32010f14eb2e72799b6e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>4e9ff9d82fe32010f14eb2e72799b6e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>373ef1982fe32010f14eb2e72799b661</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>c29ff9d82fe32010f14eb2e72799b6e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>4a9ff9d82fe32010f14eb2e72799b6e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>829ff9d82fe32010f14eb2e72799b6e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>4a9ff9d82fe32010f14eb2e72799b6e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.x_613320_weebpal_project.REL:b9edf0ca0a0a0b010035de2d6b579a03</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>029ff9d82fe32010f14eb2e72799b6e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_613320_weebpal_project.x_613320_weebpal_project_detail.project</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:56:27</sys_created_on>
+            <sys_id>869ff9d82fe32010f14eb2e72799b6e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:56:27</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field/>
+            <height>300</height>
+            <label/>
+            <report/>
+            <report_field/>
+            <report_qual/>
+            <section caption="Project" display_value="Project" name="x_613320_weebpal_project" sys_domain="global" view="1ccdb5982fe32010f14eb2e72799b62f">1ccdb5982fe32010f14eb2e72799b633</section>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:50:35</sys_created_on>
+            <sys_id>373ef1982fe32010f14eb2e72799b661</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:50:35</sys_updated_on>
+        </sys_ui_chart>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Project</caption>
+            <header>false</header>
+            <name>x_613320_weebpal_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:48:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ccdb5982fe32010f14eb2e72799b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_613320_weebpal_project</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Weebpal" source="x_613320_weebpal">b226119c2f632010f14eb2e72799b603</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Weebpal">b226119c2f632010f14eb2e72799b603</sys_scope>
+            <sys_update_name>sys_ui_section_1ccdb5982fe32010f14eb2e72799b633</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:48:25</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="One column" name="One_column">1ccdb5982fe32010f14eb2e72799b62f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

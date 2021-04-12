@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Project" max_length="40" name="x_613320_weebpal_project" type="collection">
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Budget" mandatory="true" max_length="20" name="budget" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="2200" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Start date" mandatory="true" max_length="40" name="start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Url" max_length="1024" name="url" type="url"/>
+    </element>
+</database>

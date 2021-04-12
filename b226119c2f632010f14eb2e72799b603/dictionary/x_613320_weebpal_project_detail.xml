@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Project detail" max_length="40" name="x_613320_weebpal_project_detail" type="collection">
+        <element attributes="encode_utf8=false" label="Project" mandatory="true" max_length="32" name="project" reference="x_613320_weebpal_project" type="reference"/>
+        <element attributes="encode_utf8=false" dependent="sys_created_on" dependent_on_field="sys_created_on" label="Staff" mandatory="true" max_length="32" name="staff" reference="x_613320_weebpal_staff" type="reference" use_dependent_field="true"/>
+        <index name="index">
+            <element name="project"/>
+        </index>
+        <index name="index2">
+            <element name="staff"/>
+        </index>
+    </element>
+</database>

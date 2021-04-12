@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_613320_weebpal_project_detail" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>project</element>
+            <list_id display_value="x_613320_weebpal_project_detail" element="NULL" name="x_613320_weebpal_project_detail" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b85086d82fe32010f14eb2e72799b665</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:59:39</sys_created_on>
+            <sys_id>345086d82fe32010f14eb2e72799b666</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:59:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>staff</element>
+            <list_id display_value="x_613320_weebpal_project_detail" element="NULL" name="x_613320_weebpal_project_detail" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b85086d82fe32010f14eb2e72799b665</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:59:39</sys_created_on>
+            <sys_id>3450c21c2fe32010f14eb2e72799b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:59:39</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_613320_weebpal_project_detail</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-12 06:59:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b85086d82fe32010f14eb2e72799b665</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_613320_weebpal_project_detail</sys_name>
+            <sys_package display_value="Weebpal" source="x_613320_weebpal">b226119c2f632010f14eb2e72799b603</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Weebpal">b226119c2f632010f14eb2e72799b603</sys_scope>
+            <sys_update_name>sys_ui_list_x_613320_weebpal_project_detail_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-12 06:59:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
